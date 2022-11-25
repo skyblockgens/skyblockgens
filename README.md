@@ -7,7 +7,7 @@
 
 ## About Me
 - 18\.
-- self taught full-stack developer.
+- full-stack developer.
 - currently studying computer science in college.
 - name is meant as a meme like those free vbuck generators.
 
